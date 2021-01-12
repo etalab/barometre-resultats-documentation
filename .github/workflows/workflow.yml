@@ -1,0 +1,40 @@
+name: Run-PDF-Documentation
+
+on: push
+
+jobs:
+  workflow:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -l {0}
+    steps:
+      - name: Import code from current GitHub repo
+        uses: actions/checkout@v2
+      - name: Setup Python 3
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: Install Pandoc
+        run: |
+          wget https://github.com/jgm/pandoc/releases/download/2.11.3.2/pandoc-2.11.3.2-1-amd64.deb
+          sudo dpkg -i pandoc-2.11.3.2-1-amd64.deb
+      - name: Install TexLive (PDFLaTeX)
+        run : |
+          sudo apt-get update
+          sudo apt-get install texlive-full
+      - name: Build Documentation PDF
+        run: python doc_pdf/main.py ./documentation_barometre_resultats.pdf
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ./documentation_barometre_resultats.pdf
+          git commit -m "GitHub Actions - Reports updates $(date)" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
