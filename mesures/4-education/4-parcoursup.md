@@ -9,12 +9,12 @@
 
 **Indicateur** : *Taux de réussite aux examens de licence 1*
 
-Il s'agit du taux mesuré de passage en L2 des néo bacheliers inscrits en L1 à la rentrée précédente. Il correspond au ratio « Inscrits en L2 / Inscrits en L1 », calculé sur la population des néo bacheliers inscrits en L1.
+Il s'agit du taux mesuré de passage en L2 des néo-bacheliers inscrits en L1 à la rentrée précédente. Il correspond au ratio « Inscrits en L2 / Inscrits en L1 », calculé sur la population des néo-bacheliers inscrits en L1.
 Ce ratio est très différent selon les caractéristiques du public accueilli. Par exemple, les bacheliers de la série générale réussissent en moyenne mieux que ceux de la série technologique. Les caractéristiques moyennes des bacheliers diffèrent selon les établissements et donc les académies, rendant les comparaisons territoriales délicates. Des indicateurs affinés de valeur ajoutée, prenant en compte ces caractéristiques, sont également disponibles.
 
 ## Description du mode de production du jeu de données 
 Les données sont constituées à partir de remontées administratives recueillies via le Système d’information du Suivi de l’Etudiant (SISE). Ces données sont élaborées par la sous-direction des Systèmes d'Information et des Études Statistiques (SIES) du MESRI. 
-Ces données sont exhaustives sur le champ des néo bacheliers inscrits en première année de licence, à la rentrée N.
+Ces données sont exhaustives sur le champ des néo-bacheliers inscrits en première année de licence, à la rentrée N.
 Ces données donnent lieu à publication régulière par le MESRI : la dernière publication date du mois d’octobre 2020. Elle est consultable [ici](https://www.enseignementsup-recherche.gouv.fr/cid154937/reussite-et-assiduite-en-premiere-annee-de-licence-impact-de-la-loi-ore-nouveaux-indicateurs.html).
 
 ## Description des métadonnées 
@@ -34,7 +34,7 @@ L2 = deuxième année du cursus Licence.
 Les indicateurs sont ici calculés et diffusés au niveau de l’académie. 
 
 ## Lexique des termes 
-- Inscrits en L1 : étudiants néobacheliers inscrits en L1 dans l’établissement à la rentrée universitaire N.
+- Inscrits en L1 : étudiants néo-bacheliers inscrits en L1 dans l’établissement à la rentrée universitaire N.
 - Inscrits en L2 : étudiants inscrits en L2 à la rentrée universitaire N+1, quel que soit l’établissement d’accueil.
 - Valeur ajoutée :
 Chaque université possède sa propre population étudiante, qui diffère par ses caractéristiques sociales et le parcours antérieur : série du baccalauréat, âge au moment de son obtention... Or, les études sur la réussite à l’université montrent que la réussite varie fortement selon ces caractéristiques.

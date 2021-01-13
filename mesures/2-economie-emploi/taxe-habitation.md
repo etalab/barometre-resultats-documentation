@@ -2,7 +2,7 @@
 ## Description générale du jeu de données 
 **Action prioritaire** : Depuis 2018, la taxe d’habitation baisse progressivement pour 80 % des Français, qui ne la paieront plus à compter de 2020. Pour les 20 % des ménages restants, la suppression de la taxe d’habitation se déploiera jusqu’en 2023, date à laquelle plus aucun foyer ne paiera de taxe d’habitation sur sa résidence principale. 
 
-**Indicateur** : *nombre de personnes exonérés totalement du paiement de la taxe d’habitation*
+**Indicateur** : *nombre de personnes exonérées totalement du paiement de la taxe d’habitation*
 
 Au titre des années 2018 et 2019, l’indicateur correspond aux foyers ayant une TH nulle sans être bénéficiaires du dégrèvement de la taxe d’habitation.
 Au titre des années 2020, 2021, 2022, l’indicateur correspond aux foyers ayant une TH nulle, dont les foyers bénéficiaires du dégrèvement d’office (à 100 %) depuis 2020.

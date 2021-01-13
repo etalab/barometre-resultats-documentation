@@ -21,7 +21,7 @@ Les résultats de satisfaction relatifs aux usagers des services publics sont na
 
 Les données sont issues d’une enquête réalisée annuellement par l’institut Delouvrier.
 
-Taux de satisfaction : l’enquête est adressée par mail à un échantillon de 2500 personnes, représentatif de l’ensemble des résidents français de 15 ans et plus. Au sein de cet échantillon de Français sont identifiés des sous-échantillons d’usagers, issus de 9 services publics. Dans les résultats d’ensemble, les usagers de ces services publics apparaissent en proportion deleur poids démographique réel dans la population.
+Taux de satisfaction : l’enquête est adressée par mail à un échantillon de 2500 personnes, représentatif de l’ensemble des résidents Français de 15 ans et plus. Au sein de cet échantillon de Français sont identifiés des sous-échantillons d’usagers, issus de 9 services publics. Dans les résultats d’ensemble, les usagers de ces services publics apparaissent en proportion de leur poids démographique réel dans la population.
 
 ### Description des métadonnées
  

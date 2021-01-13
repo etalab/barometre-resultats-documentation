@@ -20,7 +20,7 @@ Synthèse :
 -	Couverture temporelle :  mars 2018 – septembre 2020
 -	Couverture spatiale : France métropolitaine, Guadeloupe, Guyane, Martinique, Réunion, et Mayotte.
 -	Granularité spatiale : nationale, régionale, départementale
--	Nature des données : valeurs trimestrielles non-cumulées
+-	Nature des données : valeurs trimestrielles non cumulées
 
 Les données sont transmises à un rythme trimestriel depuis 2018, à l’échelle départementale (incluant l’outre-mer). Les données ne sont pas cumulatives, il s’agit des dossiers acceptés dans la durée du trimestre correspondant.
 

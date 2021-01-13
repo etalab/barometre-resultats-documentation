@@ -5,11 +5,11 @@ La mise en œuvre de cette réforme a d’abord ciblé les niveaux CP et CE1. Fa
 
 **Indicateur 1** : *Part des classes de CP et CE1 en REP dédoublées (en %)*
 
-Cet indicateur restitue le pourcentage des classes de CP et CE1 en REP concernées par le dédoublement, c’est à dire la part de classes de CP et CE1 en REP dont l’effectif est dédoublé.
+Cet indicateur restitue le pourcentage des classes de CP et CE1 en REP concernées par le dédoublement, c’est-à-dire la part de classes de CP et CE1 en REP dont l’effectif est dédoublé.
 
 **Indicateur 2** : *Part des classes de grande section en REP dédoublées (en %)*
 
-Cet indicateur restitue le pourcentage des classes de grande section en REP concernées par le dédoublement, c’est à dire la part de classes de grande section en REP dont l’effectif est dédoublé.
+Cet indicateur restitue le pourcentage des classes de grande section en REP concernées par le dédoublement, c’est-à-dire la part de classes de grande section en REP dont l’effectif est dédoublé.
 
 ## Description du mode de production du jeu de données 
 Les effectifs de rentrée scolaire sont établis quelques semaines après la rentrée au niveau académique puis consolidés au niveau national à la DGESCO.

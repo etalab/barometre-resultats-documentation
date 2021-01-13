@@ -19,7 +19,7 @@ Synthèse :
 -	Couverture temporelle :  juin 2017 – septembre 2020
 -	Couverture spatiale : France métropolitaine, Guadeloupe, Guyane, Martinique, Réunion, et Mayotte.
 -	Granularité spatiale : nationale, régionale
--	Nature des données : valeurs trimestrielles non-cumulées
+-	Nature des données : valeurs trimestrielles non cumulées
 
 Les données sont recueillies par cour d’appel et sont actualisées chaque trimestre. Dans le cadre du baromètre des résultats, les données ont été décumulées pour projeter des valeurs trimestrielles non cumulées.
 

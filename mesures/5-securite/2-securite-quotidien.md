@@ -25,6 +25,6 @@ Synthèse :
 -	Couverture temporelle : 2017-2020
 -	Couverture spatiale : France métropolitaine et Outre-mer
 -	Granularité spatiale : nationale, régionale, départementale
--	Nature des données : données mensuelles non-cumulées 
+-	Nature des données : données mensuelles non cumulées 
 
 Dans le cadre du baromètre des résultats, les données ont été décumulées pour afficher des valeurs mensuelles non-cumulées.

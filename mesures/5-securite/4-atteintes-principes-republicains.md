@@ -15,7 +15,7 @@ Chaque chiffre est accompagné d’un commentaire qualitatif qui permet d’en s
 - Couverture temporelle : 2018-2020
 - Couverture spatiale : France métropolitaine et Outre-mer
 - Granularité spatiale : nationale, régionale, départementale
-- Nature des données : données mensuelles non-cumulées
+- Nature des données : données mensuelles non cumulées
  
 Chaque donnée est un cumul, mis à jour à date fixe de façon hebdomadaire et consolidé chaque mois. La période d’étude est donc bornée dans le temps. Dans le cadre du baromètre des résultats, les données ont été décumulées pour projeter des données mensuelles non-cumulées.
 La synthèse nationale permet donc une vision globale, donc tout le territoire Français, Outre-mer compris ainsi qu’une vision régionale ou départementale.

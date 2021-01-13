@@ -7,9 +7,9 @@
 
 Une aide de 4 000 € maximum est instaurée pour l'embauche d'un jeune de moins de 26 ans. Le contrat doit être un CDD d'une durée de 3 mois minimum ou un CDI. La rémunération du jeune salarié doit être inférieure ou égale à 2 fois le Smic. Chaque recrutement qui remplit les conditions requises donne droit à cette aide. Ce dispositif concerne les contrats conclus entre le 1er août 2020 et le 31 janvier 2021.
 
-**Indicateur** : *Nombre de recrutement de jeunes*
+**Indicateur** : *Nombre de recrutements de jeunes*
 
-L’indicateur permet de suivre l’évolution du nombre de recrutement de jeunes de moins de 26 ans en CDD de trois mois minimum ou en CDI depuis le lancement des aides du plan jeunes. Ainsi, les chiffres présentent les recrutements entre août et novembre 2020, qui peuvent être comparés à la même période en 2019 et 2018.
+L’indicateur permet de suivre l’évolution du nombre de recrutements de jeunes de moins de 26 ans en CDD de trois mois minimum ou en CDI depuis le lancement des aides du plan jeunes. Ainsi, les chiffres présentent les recrutements entre août et novembre 2020, qui peuvent être comparés à la même période en 2019 et 2018.
 
 ## Description du mode de production du jeu de données 
 Les données proviennent de la DARES : séries mensuelles de DPAE selon une ventilation régionale et éventuellement départementale. Valeur actuelle : Nombre cumulé de déclarations préalables à l’embauche en 2020 pour les moins de 26 ans, CDI et CDD de plus de trois mois (données août 2020).

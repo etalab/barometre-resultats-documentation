@@ -20,7 +20,7 @@ Les données sur les AFD sont prises en compte dans l’état 4001 à la date de
 -	Couverture temporelle : depuis la création de l’AFD (juin 2020)
 -	Couverture spatiale : France métropolitaine et Outre-mer
 -	Granularité spatiale : nationale, régionale, départementale
--	Nature des données : données mensuelles non-cumulées
+-	Nature des données : données mensuelles non cumulées
 
 Dans le cadre du baromètre des résultats, les données ont été décumulées afin d’afficher des valeurs mensuelles non-cumulées.
 
