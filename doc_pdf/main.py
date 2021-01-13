@@ -93,7 +93,7 @@ def build_metadata():
         'title': "Documentation - Baromètre des résultats de l’action publique",
         #'author': "Etalab",
         'date': date_str,
-        'footer-center': '\\footnotesize Consultez les fichiers opendata sur \href{https://www.data.gouv.fr/fr/datasets/barometre-des-resultats-de-laction-publique/}{www.data.gouv.fr/fr/datasets/barometre-des-resultats-de-laction-publique/}',
+        'footer-center': '\\footnotesize Consultez les données sur \href{https://www.data.gouv.fr/fr/datasets/barometre-des-resultats-de-laction-publique/}{www.data.gouv.fr/fr/datasets/barometre-des-resultats-de-laction-publique/}',
         #'logo': 'logo.png',
         'colorlinks': "true",
         'linkcolor': "etalab-blue",

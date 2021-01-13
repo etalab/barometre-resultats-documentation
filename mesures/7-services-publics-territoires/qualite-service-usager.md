@@ -17,18 +17,20 @@ La question posée par l’institut de sondage est :
 « Globalement, en tant qu’usager, diriez-vous que vous avez été très satisfait, plutôt satisfait, plutôt mécontent ou très mécontent de l'action de…[question pour chacun des services publics suivants : La fiscalité et la collecte des impôts, la santé publique, la sécurité sociale, la police et la gendarmerie, le logement, l’éducation nationale, l’environnement, l’emploi, la lutte et le chômage, la justice] »
 Les résultats de satisfaction relatifs aux usagers des services publics sont nationaux, sans distinction des administrations ou opérateurs par grand domaine. »
 
-### Description du mode de production du jeu de données 
+### Description du mode de production du jeu de données
+
 Les données sont issues d’une enquête réalisée annuellement par l’institut Delouvrier.
 
 Taux de satisfaction : l’enquête est adressée par mail à un échantillon de 2500 personnes, représentatif de l’ensemble des résidents français de 15 ans et plus. Au sein de cet échantillon de Français sont identifiés des sous-échantillons d’usagers, issus de 9 services publics. Dans les résultats d’ensemble, les usagers de ces services publics apparaissent en proportion deleur poids démographique réel dans la population.
 
-### Description des métadonnées 
+### Description des métadonnées
+ 
 Synthèse : 
 -	Fréquence de mise à jour : annuelle
 -	Couverture temporelle : 2017 - 2019 
 -	Couverture spatiale : France
 -	Granularité spatiale : nationale
--	Nature des données : cumul annuel
+-	Nature des données : valeurs en pourcentage
 
 Les données sont annuelles. Il s’agit d’un pourcentage représentant le taux de satisfaction des usagers à l’égard de leur service public. 
 
@@ -36,6 +38,7 @@ Les données sont annuelles. Il s’agit d’un pourcentage représentant le tau
 L’indicateur permet de mesurer le taux de transparence des services publics. Il recense, à la maille nationale, la part des réseaux de services publics engagés dans le processus de transparence. De plus, il mesure, au niveau départemental, la part des lieux d’accueil du public publiant des résultats. 
 
 ### Description du mode de production du jeu de données 
+
 Les données sont issues des résultats du portail « [resultats-services-publics.fr](https://www.resultats-services-publics.fr/) ». Ces données sont produites et publiées par chacun des services publics engagés dans la démarche de transparence :
 -	AFPA
 -	Administration pénitentiaire
@@ -73,16 +76,18 @@ Les données sont issues des résultats du portail « [resultats-services-public
 Chacun de ces services publics affiche des indicateurs qui reflètent au mieux la qualité de ses services tels qu’ils sont rendus (« performance ») et tels qu’ils sont perçus par les usagers (« satisfaction »). Les explications et détails méthodologiques sont fournis par chaque service public et publiés sur « [resultats-services-publics.fr](https://www.resultats-services-publics.fr/) » pour chacun des indicateurs.
 
 ### Description des métadonnées 
+
 Synthèse : 
 -	Fréquence de mise à jour : annuelle
 -	Couverture temporelle : 2017 - 2019 
 -	Couverture spatiale : France
 -	Granularité spatiale : nationale, départementale
--	Nature des données : cumul annuel
+-	Nature des données : valeurs en pourcentage
 
 Les données du site « [resultats-services-publics.fr](https://www.resultats-services-publics.fr/) » sont collectées tout au long de l’année à différentes mailles territoriales (nationale, régionale, départementale, site) selon les indicateurs considérés. Les statistiques collectées sont hétérogènes en nature et peuvent être des taux, des notes, des durées, des nombres, etc...
 
 ### Lexique des termes 
+
 Taux de transparence : 
 La donnée nationale est donnée par réseau de service public (XX réseaux publient des résultats sur le périmètre identifié). La donnée départementale mesure au sein de chaque réseau le nombre de lieux d’accueil du public publiant leurs résultats. 
 

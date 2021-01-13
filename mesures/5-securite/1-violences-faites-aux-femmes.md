@@ -7,13 +7,14 @@ Parmi ces mesures figurent notamment la création de places d’hébergement d�
 L’ordonnance de protection, créée en 2010, a deux objectifs. Le premier est de protéger la victime de violences conjugales en lui accordant des mesures de protection judiciaire. Le second est de l’accompagner dans le parcours de sortie des violences en lui permettant d’obtenir des mesures d’éloignement du défendeur ainsi que des mesures relatives aux enfants et à l’attribution du logement. 
 
 **Indicateur** : *Nombre d’ordonnances de protection délivrées*
+
 L’indicateur permet de suivre le nombre de victime protégée par l’ordonnance d’un juge aux affaires familiales.
 
 ## Description du mode de production du jeu de données 
 Les données sont recueillies par le service statistique du ministère de la Justice.
 
 ## Description des métadonnées 
-Synthèse 
+Synthèse :
 -	Fréquence de mise à jour : trimestrielle 
 -	Couverture temporelle :  juin 2017 – septembre 2020
 -	Couverture spatiale : France métropolitaine, Guadeloupe, Guyane, Martinique, Réunion, et Mayotte.

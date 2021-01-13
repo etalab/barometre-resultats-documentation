@@ -3,6 +3,7 @@
 **Action prioritaire** : promouvoir l’apprentissage est une des priorités du quinquennat en matière d’emploi des jeunes. La loi « avenir professionnel » de 2018 a permis de simplifier les procédures et donc d’en accélérer le développement. Par ailleurs, un engagement fort du Gouvernement a été pris pour soutenir l’apprentissage et montrer toute l’importance et l’excellence de cette voie de formation. En 2019, les résultats étaient là : une hausse de 16 % des entrées en apprentissage (353 000 nouveaux contrats).
  
 **Indicateur** : *Nombre de contrats d’apprentissage*
+
 Il s’agit du nombre de contrats signés entre un apprenti et une entreprise, visé par un centre de formation, pour un parcours de formation en apprentissage.
 
 ## Description du mode de production du jeu de données 
@@ -16,7 +17,7 @@ Synthèse
 -	Granularité spatiale : nationale, régionale, départementale
 -	Nature des données : valeurs annuelles non-cumulées
 
-Les données sont transmises à un rythme mensuel, à l’échelle départementale. : 
+Les données sont transmises à un rythme mensuel, à l’échelle départementale.
 NB : existence actuellement d’une remontée transitoire : Dans l’attente de disposer des données DARES stabilisées, ce sont des données brutes issues des remontées des OPCO qui seront mises à disposition 
 
 ## Lexique des termes 

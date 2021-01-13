@@ -16,9 +16,10 @@ Les effectifs de rentrée scolaire sont établis quelques semaines après la ren
 -	Saisie académique ;
 -	Les effectifs sont ceux établis à la rentrée et ne tiennent pas compte des mouvements d’effectifs intervenant dans le courant de l’année scolaire (changement de niveau, changement d’établissement).
 
-## Description des métadonnées 
--	Fréquence de mise à jour : annuelle ; 
+## Description des métadonnées
+Synthèse : 
+-	Fréquence de mise à jour : annuelle
 -	Couverture temporelle : 2019 – 2020 (année scolaire)
 -	Couverture spatiale : France métropolitaine et DOM
 -	Granularité spatiale : nationale, départementale
--	Nature des données : valeurs en pourcentage cumulés
+-	Nature des données : valeurs en pourcentage

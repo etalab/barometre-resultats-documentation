@@ -20,6 +20,7 @@ L’indicateur dénombre les UEEA (Unité d’enseignement en élémentaire auti
 Les classes spécialisées ouvertes sont recensées à chaque rentrée scolaire au niveau académique. Les chiffres sont consolidés au niveau national à la DGESCO.
 
 ## Description des métadonnées 
+Synthèse :
 -	Fréquence de mise à jour : annuelle ; 
 -	Couverture temporelle : 2017 – 2020 (année scolaire)
 -	Couverture spatiale : France métropolitaine et DOM

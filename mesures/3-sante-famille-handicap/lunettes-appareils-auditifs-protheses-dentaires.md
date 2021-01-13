@@ -11,3 +11,4 @@
 -	Couverture temporelle (jusqu’à quelle date remontent les données) : 2019
 -	Couverture spatiale (France métropolitaine, DOM-TOM, etc.) : France métropolitaine + DOM-TOM (sauf audio)
 -	Granularité spatiale (nation, région, département, etc.) : régionale
+-	Nature des données : valeurs en pourcentage

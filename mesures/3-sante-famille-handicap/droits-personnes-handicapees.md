@@ -6,16 +6,14 @@ Plusieurs actions sont d’ores et déjà engagées : attribution depuis début 
 
 L’amélioration des délais de traitement doit permettre d’obtenir une réponse de chaque MDPH en moins de quatre mois, contre une moyenne d’environ 4,5 mois aujourd’hui, avec un objectif de réponse en moins de trois mois pour les demandes d’allocation aux adultes handicapés (AAH).
 
-Le contexte 
-
-Pendant la période de déploiement du système d’information harmonisé, un impact sur les durées de traitement des demandes est à observer, compte tenu des transformations qu’il implique dans les organisations et les processus internes des MDPH. La période de la crise sanitaire a également un impact sur l’organisation et le fonctionnement des MDPH. De ce fait, les données révèlent les difficultés rencontrées par les MDPH.
+**Le contexte** : Pendant la période de déploiement du système d’information harmonisé, un impact sur les durées de traitement des demandes est à observer, compte tenu des transformations qu’il implique dans les organisations et les processus internes des MDPH. La période de la crise sanitaire a également un impact sur l’organisation et le fonctionnement des MDPH. De ce fait, les données révèlent les difficultés rencontrées par les MDPH.
 
 **Indicateur** : L’indicateur affiché mesure la moyenne des délais de traitement constatés sur les dossiers de demande d'allocation adulte handicapé AAH traités sur la période considérée et sur le territoire considéré
 
 ## Description du mode de production du jeu de données 
--	Les données sont issues jusqu’au déploiement d’un système d’information harmonisé de systèmes d’information locaux avec des paramétrages locaux. Elles ne sont pas exhaustives
--	Parallèlement au déploiement du système d’information harmonisé, des requêtes automatisées sont en cours de déploiement. Elles anticipent la mise en place en 2021 d’un entrepôt national de données de l’activité de l’ensemble des MDPH sous la maîtrise d’ouvrage de la CNSA
--	Depuis le 15 octobre 2020, les données sont accessibles sur le site de la CNSA ([cnsa.fr](https://www.cnsa.fr/)) avec une mise à jour trimestrielle. Elles sont une des composantes d’un baromètre des MDPH
+-	Les données sont issues jusqu’au déploiement d’un système d’information harmonisé de systèmes d’information locaux avec des paramétrages locaux. Elles ne sont pas exhaustives.
+-	Parallèlement au déploiement du système d’information harmonisé, des requêtes automatisées sont en cours de déploiement. Elles anticipent la mise en place en 2021 d’un entrepôt national de données de l’activité de l’ensemble des MDPH sous la maîtrise d’ouvrage de la CNSA.
+-	Depuis le 15 octobre 2020, les données sont accessibles sur le site de la CNSA ([cnsa.fr](https://www.cnsa.fr/)) avec une mise à jour trimestrielle. Elles sont une des composantes d’un baromètre des MDPH.
 
 ## Description des métadonnées 
 -	Fréquence de mise à jour :  trimestrielle à compter du 3ème trimestre 2020 

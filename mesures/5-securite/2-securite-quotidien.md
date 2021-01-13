@@ -10,16 +10,17 @@ Les heures de forces mobiles en missions « de voie publique » (hors maintien d
 
 ## Description du mode de production du jeu de données 
 Sur la base des systèmes d’information de déclaration de l’activité des forces de sécurité, sont par exemple inclues :
--	les patrouilles pédestres, cyclistes, 
+-	les patrouilles pédestres, cyclistes
 -	les activités génériques de proximité hors locaux de police
 -	la surveillance et régulation à points fixes, contrôles routiers
 -	les opérations de sécurisation dans les transports
+
 Sont par exemple exclues :
 -	les missions réalisées hors voie publique (travail administratif et d’enquête « au bureau »)
 -	les missions réalisées sur la voie publique mais relevant de services programmés dédiés tels que les maintiens de l’ordre, services d'ordre indemnisés, les gardes et escortes de personnes retenues ou détenues 
 
 ## Description des métadonnées 
-
+Synthèse :
 -	Fréquence de mise à jour : mensuelle
 -	Couverture temporelle : 2017-2020
 -	Couverture spatiale : France métropolitaine et Outre-mer

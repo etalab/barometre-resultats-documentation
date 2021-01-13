@@ -23,20 +23,18 @@ Synthèse :
 -	Couverture temporelle : 2017-2019
 -	Couverture spatiale : France 
 -	Granularité spatiale : nationale, départementale
--	Nature des données : cumul 
+-	Nature des données : valeurs en pourcentage
 
 Le champ des indicateurs est constitué des néo-bacheliers N inscrits en première année de licence (L1) à la rentrée universitaire N. En sont exclus les étudiants ayant pris une inscription parallèle en STS, DUT ou CPGE ou ayant obtenu le diplôme de Licence à l’issue de la première année.
-L1 = première année du cursus Licence  
-L2 = deuxième année du cursus Licence  
 
-Indicateurs annuels
-Les indicateurs ainsi calculés (taux de passage des néo bacheliers) sont disponibles depuis 2014
-La couverture spatiale est la France entière
+L1 = première année du cursus Licence.
+
+L2 = deuxième année du cursus Licence.
+
 Les indicateurs sont ici calculés et diffusés au niveau de l’académie. 
-Les données ne sont pas en cumul
 
 ## Lexique des termes 
-- Inscrits en L1 : étudiants néobacheliers inscrits en L1 dans l’établissement à la rentrée universitaire N
+- Inscrits en L1 : étudiants néobacheliers inscrits en L1 dans l’établissement à la rentrée universitaire N.
 - Inscrits en L2 : étudiants inscrits en L2 à la rentrée universitaire N+1, quel que soit l’établissement d’accueil.
 - Valeur ajoutée :
 Chaque université possède sa propre population étudiante, qui diffère par ses caractéristiques sociales et le parcours antérieur : série du baccalauréat, âge au moment de son obtention... Or, les études sur la réussite à l’université montrent que la réussite varie fortement selon ces caractéristiques.

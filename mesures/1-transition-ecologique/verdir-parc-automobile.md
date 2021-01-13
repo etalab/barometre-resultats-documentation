@@ -2,7 +2,8 @@
 ## Description générale du jeu de données 
 **Action prioritaire** : une des actions de l’État en faveur du verdissement du parc automobile vise à soutenir le renouvellement du parc automobile et à aider les ménages et les professionnels à acquérir un véhicule peu polluant. Cette action repose notamment sur deux aides : le bonus écologique et la prime à la conversion
 
-**Indicateur** : *Nombre de primes à la conversion et de bonus écologiques *
+**Indicateur** : *Nombre de primes à la conversion et de bonus écologiques*
+
 Il s’agit de la somme :
 -	du nombre de bonus accordés à des particuliers ou des personnes morales pour l’achat ou la location longue durée d’un véhicule électrique, hydrogène ou hybride rechargeable ;
 -	et du nombre de primes accordées pour l’achat ou la location longue durée d’un véhicule éligible au dispositif, lorsqu’il s’accompagne de la mise au rebut d’un véhicule ancien polluant.

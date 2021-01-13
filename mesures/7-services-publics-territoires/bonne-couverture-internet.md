@@ -20,7 +20,7 @@ Synthèse :
 -	Couverture temporelle : mars 2017 – décembre 2019
 -	Couverture spatiale : France métropolitaine et DOM 
 -	Granularité spatiale : nationale, régionale, départementale
--	Nature des données : données trimestrielles non-cumulées
+-	Nature des données : données en pourcentage
 
 Les données sont mises à jour à une fréquence trimestrielle, depuis le dernier trimestre 2017.  Elles sont disponibles pour l’ensemble des départements du territoire métropolitain, ainsi que pour les départements d’Outre-mer. Elles sont également agrégées aux niveaux régional et national. 
 

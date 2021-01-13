@@ -26,4 +26,5 @@ Ces données ne sont pas exhaustives.
 
 ## Lexique des termes 
 Piste cyclable : chaussée exclusivement réservée aux vélos et aux engins de déplacements personnels motorisés.
+
 Voie verte : route exclusivement réservée à la circulation des véhicules non motorisés : piétons, vélos, cavaliers.
