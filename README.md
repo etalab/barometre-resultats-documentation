@@ -22,18 +22,24 @@ Afin d’apporter les informations nécessaires à la bonne compréhension des d
 * [Développer l'apprentissage](mesures/2-economie-emploi/apprentissage.md)
 * [Plan 1 jeune 1 solution](mesures/2-economie-emploi/un-jeune-une-solution.md)
 * [Supprimer la taxe d’habitation sur les résidences principales](mesures/2-economie-emploi/taxe-habitation.md)
+* [Pacte d’ambition pour l’insertion par l’activité économique](mesures/2-economie-emploi/pacte-ambition.md)
+* [Numérisation des TPE – PME](mesures/2-economie-emploi/tpe-pme.md)
+* [Aide de France Relance aux entreprises](mesures/2-economie-emploi/france-relance.md)
 
 # Santé - Famille - Handicap
 * [Allonger le congé paternité pour un meilleur développement de l’enfant](mesures/3-sante-famille-handicap/allonger-conge-paternite.md)
 * [Doubler le nombre de maisons de santé](mesures/3-sante-famille-handicap/maisons-sante.md)
 * [Proposer une offre de lunettes, aides auditives et prothèses dentaires, remboursée à 100%](mesures/3-sante-famille-handicap/lunettes-appareils-auditifs-protheses-dentaires.md)
 * [Simplifier l’accès aux droits des personnes handicapées](mesures/3-sante-famille-handicap/droits-personnes-handicapees.md)
+* [Lutter contre les impayés de pensions alimentaires](mesures/3-sante-famille-handicap/pensions-alimentaires.md)
 
 # Éducation
 * [Dédoubler les classes en REP (grande section, CP, CE1)](mesures/4-education/1-dedoubler-classes-rep.md)
 * [Limiter les classes à 24 en grande section, CP, CE1](mesures/4-education/2-limiter-les-classes-a-24.md)
 * [Offrir une scolarisation inclusive à tous les enfants handicapés](mesures/4-education/3-scolarisation-inclusive.md)
 * [Déployer Parcoursup](mesures/4-education/4-parcoursup.md)
+* [Promouvoir l’engagement chez les jeunes](mesures/4-education/engagement-jeunes.md)
+* [Déployer le programme "devoirs faits"](mesures/4-education/devoirs-faits.md)
 
 # Sécurité
 * [Lutter contre les violences faites aux femmes](mesures/5-securite/1-violences-faites-aux-femmes.md)
@@ -49,6 +55,15 @@ Afin d’apporter les informations nécessaires à la bonne compréhension des d
 * [Améliorer en continu la qualité du service rendu à l’usager](mesures/7-services-publics-territoires/qualite-service-usager.md)
 * [Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022](mesures/7-services-publics-territoires/bonne-couverture-internet.md)
 * [Déployer une offre France Services dans tous les territoires](mesures/7-services-publics-territoires/france-services.md)
+* [Redynamiser les cœurs de ville](mesures/7-services-publics-territoires/coeurs-ville.md)
 
 # Logement
 * [Offrir un logement aux sans-abris : Logement d’abord](mesures/8-logement/logement-dabord.md)
+* [Accélérer la rénovation énergétique des logements](mesures/8-logement/renovation-energetique.md)
+
+# Agriculture
+* [Sécuriser le paiement des aides PAC](mesures/9-agriculture/aides-pac.md)
+* [Réduire l’utilisation des produits phytosanitaires et accélérer la transition écologique](mesures/9-agriculture/phytosanitaires.md)
+
+# Justice
+* [Développer les places de TIG](mesures/10-justice/tig.md)
