@@ -3,7 +3,7 @@ name: Run-PDF-Documentation
 on: 
   push:
     branches:
-      - main
+      - master
 
 jobs:
   workflow:
