@@ -1,4 +1,4 @@
-# Plan 1 jeune 1 solution 
+# Plan « Un jeune une solution »
 ## Description générale du jeu de données 
 **Action prioritaire** : face à la crise économique et sociale, le Gouvernement a mis en place un plan pour aider les jeunes à accéder au marché du travail. Le plan est financé à hauteur de 6,5 Mds et comporte 3 dimensions : 
 - favoriser l'embauche des jeunes en aidant financièrement les entreprises (aide de 4 000 euros pour l'emploi d'un jeune de moins de 26 ans, prime de 8 000 euros pour l'embauche d'un alternant) ;

@@ -1,4 +1,4 @@
-# Améliorer en continu la qualité du service rendu à l’usager
+# Améliorer la qualité du service rendu à l’usager
 ## Description générale du jeu de données 
 Le programme d’amélioration continue des services publics porté par la Ministre de la transformation et de la fonction publiques est centré sur la prise en compte des avis des  usagers, pour des services publics toujours plus proches, plus efficaces, plus simples. II vise à renforcer la transparence et la confiance entre les usagers et l’administration.
 

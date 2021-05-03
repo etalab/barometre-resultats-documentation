@@ -1,4 +1,4 @@
-# Offrir un logement aux sans-abris : Logement d’abord
+# Offrir un logement aux sans-abri - Logement d’abord
 ## Description générale du jeu de données 
 **Action prioritaire** : le plan Logement d'abord a pour ambition de diminuer le nombre de personnes à la rue d'ici 2022. Il s'agit de passer d'une réponse s'appuyant surtout sur des places d'hébergement d'urgence, à un accès direct au logement avec un accompagnement social adapté aux besoins de ces personnes.
 
