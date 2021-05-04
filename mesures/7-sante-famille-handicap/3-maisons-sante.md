@@ -1,4 +1,4 @@
-# Doubler le nombre de maisons de santé et centres de santé dans les territoires
+# Doubler le nombre de maisons de santé et de centres de santé dans les territoires
 ## Description générale du jeu de données 
 La réforme : Les maisons de santé pluri-professionnelles (MSP) sont des structures de soins de proximité regroupant des professionnels de santé libéraux sur un ou plusieurs sites, autour d’un projet de santé et doté d’un système d’information partagé. L’organisation en maison de santé permet l’amélioration de la qualité et de la continuité des soins. La réforme engagée vise à doubler le nombre de maisons de santé pour atteindre 1 000 structures supplémentaires en 5 ans.  
 

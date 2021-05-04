@@ -51,7 +51,7 @@ Afin d’apporter les informations nécessaires à la bonne compréhension des d
 # Santé - Famille - Handicap
 * [Lutter contre les impayés de pensions alimentaires](mesures/7-sante-famille-handicap/1-impayes-pensions-alimentaires.md)
 * [Proposer une offre de lunettes, aides auditives et prothèses dentaires, remboursée à 100%](mesures/7-sante-famille-handicap/2-lunettes-appareils-auditifs-protheses-dentaires.md)
-* [Doubler le nombre de maisons de santé et centres de santé dans les territoires](mesures/7-sante-famille-handicap/3-maisons-sante.md)
+* [Doubler le nombre de maisons de santé et de centres de santé dans les territoires](mesures/7-sante-famille-handicap/3-maisons-sante.md)
 * [Allonger le congé paternité pour un meilleur développement de l’enfant](mesures/7-sante-famille-handicap/4-allonger-conge-paternite.md)
 * [Simplifier l’accès aux droits des personnes handicapées](mesures/7-sante-famille-handicap/5-droits-personnes-handicapees.md)
 
