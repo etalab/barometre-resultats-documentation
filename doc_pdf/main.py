@@ -118,7 +118,9 @@ def main(output_path):
     if Path('./images').exists():
         raise ValueError("images folder already exists. Should not exist for symlinks")
     
-    themes_list = sorted(os.listdir(md_folder))
+    #Creating a dict with appropriate keys to give the correct order for the themes
+    themes_dict = {int(theme_md_filename.split('-')[0]) : theme_md_filename for theme_md_filename in os.listdir(md_folder)}
+    themes_list = [themes_dict[theme_key] for theme_key in sorted(themes_dict.keys())]
 
     lines = []
 
