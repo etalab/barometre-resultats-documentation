@@ -10,11 +10,10 @@ L'indicateur mesure l'évolution de la part (en pourcentage) de surface agricole
 Les deux indicateurs sont saisis manuellement. 
 
 **Indicateur 1** : 
--	les données sont produites par les organismes privés en charge du contrôle de la certification. Les données concernant la bio sont transmises par ces organismes certificateurs à l'agence bio. Ainsi, l’agence bio centralise et agrège ces informations avant de les transmettre au MAA.
+-	les données sont produites par les organismes privés en charge du contrôle de la certification. Les données concernant la bio sont transmises par ces organismes certificateurs à l'Agence Bio. Ainsi, l’Agence Bio centralise et agrège ces informations avant de les transmettre au MAA.
 Site de l’agence bio : [agencebio.org/vos-outils/les-chiffres-cles](https://www.agencebio.org/vos-outils/les-chiffres-cles/)
 Pour les données HVE, les données sont transmises par les organismes certificateurs au MAA (DGPE) qui en assure le traitement.
 -	Données non-exhaustives : les données sont communiquées sur la base des remontées faites par les organismes certificateurs. Une même exploitation peut être certifiée bio et HVE. Les données HVE pour les années 2017, 2018 et 2019 n'ont pas été collectées aux mêmes dates.
-
 
 **Indicateur 2** :
 -	Les données sont collectées par les organismes certificateurs privés. Elles sont transmises par ces organismes certificateurs à l'Agence Bio. Ainsi, l’Agence Bio centralise et agrège ces informations.
