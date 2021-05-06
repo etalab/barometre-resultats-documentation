@@ -5,14 +5,15 @@ Le Gouvernement déploie depuis septembre un plan de relance de l’économie, F
 
 **Indicateur** : _Nombre d’entreprises industrielles et organismes agricoles bénéficiaires des aides à l’investissement de France Relance._
 
-L’indicateur permet de suivre le nombre d’entreprises et d’organismes bénéficiaires de certains dispositifs de soutien à l’investissement mis en place dans le cadre du plan France Relance : soutien à l’investissement industriel dans les territoires, relocalisation dans les secteurs stratégiques, fonds de modernisation automobile et aéronautique et aide au renouvellement des équipements agricoles.
+L’indicateur actuel présente le nombre d’entreprises et d’organismes bénéficiaire de certains dispositifs de soutien à l’investissement, mis en place dans le cadre du plan France Relance : soutien à l’investissement industriel dans les territoires, relocalisation dans les secteurs stratégiques, fonds de modernisation automobile et aéronautique, renouvellement des agroéquipements
+Les données relatives aux organismes agricoles bénéficiaires seront intégrées mi-mai.
 
 ## Description du mode de production du jeu de données
 L’indicateur concerne les bénéficiaires des dispositifs suivants :
 -	Territoire d’industrie 
 -	Relocalisation 
 -	Fonds de modernisation automobile et aéronautique
--	Renouvellement des agroéquipements
+-	Prime à la conversion des agroéquipements 
 
 ## Description des métadonnées 
 -	Fréquence de mise à jour : mensuelle
