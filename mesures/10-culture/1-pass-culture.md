@@ -11,7 +11,7 @@ Il s'agit de recenser le nombre de dossiers de demande d'accès au pass Culture,
 
 ## Description des métadonnées 
 -	Fréquence de mise à jour : trimestrielle
--	Couverture temporelle : février 2019 – octobre 2020 (le crédit est aujourd'hui valable 24 mois, donc ces utilisateurs peuvent toujours l'utiliser)
+-	Couverture temporelle : février 2019 – mars 2021 (le crédit est aujourd'hui valable 24 mois, donc ces utilisateurs peuvent toujours l'utiliser)
 -	Couverture spatiale : 14 départements expérimentateurs (dont la Guyane en OM)
 -	Granularité spatiale : nationale, régionale, départementale
 -	Nature des données : cumul

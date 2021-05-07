@@ -12,14 +12,16 @@ md_folder = os.path.join(root_folder, 'mesures')
 doc_pdf_folder = os.path.join(root_folder, 'doc_pdf')
 
 themes_str_dict = {
-    '1-transition-ecologique' : 'Transition écologique',
-    '2-economie-emploi' : 'Économie - Emploi',
-    '3-sante-famille-handicap' : 'Santé - Famille - Handicap',
-    '4-education' : 'Éducation',
+    '1-education-jeunesse' : 'Éducation - jeunesse',
+    '2-economie-emploi' : 'Économie - emploi',
+    '3-transition-ecologique' : 'Transition écologique',
+    '4-agriculture' : 'Agriculture',
     '5-securite' : 'Sécurité',
-    '6-culture' : 'Culture',
-    '7-services-publics-territoires' : 'Services publics - Territoires',
-    '8-logement' : 'Logement'
+    '6-justice' : 'Justice',
+    '7-sante-famille-handicap' : 'Santé - famille - handicap',
+    '8-logement' : 'Logement',
+    '9-services-publics-territoires' : 'Services publics et territoires',
+    '10-culture' : 'Culture'
 }
 
 def emojify(string):
@@ -116,7 +118,9 @@ def main(output_path):
     if Path('./images').exists():
         raise ValueError("images folder already exists. Should not exist for symlinks")
     
-    themes_list = sorted(os.listdir(md_folder))
+    #Creating a dict with appropriate keys to give the correct order for the themes
+    themes_dict = {int(theme_md_filename.split('-')[0]) : theme_md_filename for theme_md_filename in os.listdir(md_folder)}
+    themes_list = [themes_dict[theme_key] for theme_key in sorted(themes_dict.keys())]
 
     lines = []
 

@@ -2,15 +2,14 @@
 ## Description générale des données 
 **Action** : l’action prioritaire consiste à permettre l’amélioration de la qualité de l’air grâce à la mise en place, par les collectivités territoriales, de zones à faibles émissions (ZFE) dans lesquelles la circulation des véhicules les plus polluants est interdite.
 
-**Indicateur** : pour évaluer la mise en œuvre de cette action prioritaire, un indicateur suit le déploiement des ZFE en quantifiant le nombre d’habitants qui habitent dans le périmètre des ZFE. Les données décrivent l’évolution de cet indicateur. 
+**Indicateur** : pour évaluer la mise en œuvre de cette action prioritaire, un indicateur suit le déploiement des ZFE en quantifiant le nombre d’habitants qui habitent dans le périmètre des ZFE. Les données décrivent l’évolution de cet indicateur.  
 
 ## Description du mode de production du jeu de données 
 L’indicateur est mis à jour manuellement à partir des arrêtés pris par les collectivités territoriales.
 
 ## Description des métadonnées 
-Synthèse 
 -	Fréquence de mise à jour : annuel 
--	Couverture temporelle :  2017 – 2019
+-	Couverture temporelle :  2017 – 2020
 -	Couverture spatiale : France métropolitaine, Guadeloupe, Guyane, Martinique, Réunion, et Mayotte.
 -	Granularité spatiale : nationale, régionale, départementale
 -	Nature des données : valeurs annuelles cumulées
