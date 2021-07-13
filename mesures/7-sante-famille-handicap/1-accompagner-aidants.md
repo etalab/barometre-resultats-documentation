@@ -1,6 +1,6 @@
 # Accompagner les aidants
 ## Description générale du jeu de données 
-**La réforme :** Mise en place depuis octobre 2020, l’allocation journalière du proche aidant (AJPA) s’adresse à toute personne résidant en France qui réduit ou cesse son activité professionnelle et souhaite s’occuper d’un proche en situation de handicap ou de perte d’autonomie d’une particulière gravité. 
+**La réforme :** Mise en place depuis octobre 2020, l’allocation journalière du proche aidant (AJPA) s’adresse à toute personne résidant en France qui réduit ou cesse son activité professionnelle et souhaite s’occuper d’un proche en situation de handicap ou de perte d’autonomie d’une particulière gravité.
 
 Cette nouvelle prestation, initiée lors la stratégie nationale de mobilisation et de soutien en faveur des proches aidants « Agir pour les aidants 2020-2022 », est ouverte aux salariés lorsqu’ils prennent un congé de proche aidant, aux travailleurs indépendants, aux stagiaires d’une formation professionnelle rémunérée et aux chômeurs indemnisés.
 
