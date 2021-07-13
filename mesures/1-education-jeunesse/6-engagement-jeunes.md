@@ -12,8 +12,8 @@ La cible correspond au cumul du stock et du flux entrant de contrats d’engagem
 Les données fournies ne sont pas définitives.
 
 ## Description des métadonnées 
--	Fréquence de mise à jour : annuelle
--	Couverture temporelle : 2020 
+-	Fréquence de mise à jour : trimestrielle
+-	Couverture temporelle : depuis 2017 
 -	Couverture spatiale : France métropolitaine et DOM
 -	Granularité spatiale : maille départementale 
--	Nature des données : effectifs de jeunes ayant signé un contrat de service civique 
+-	Nature des données : effectifs cumulés de jeunes engagés dans un contrat de service civique depuis le début de l’année considérée (le chiffre de juin de l’année N donne le cumul de jeunes engagés en service civique depuis janvier de l’année N).
