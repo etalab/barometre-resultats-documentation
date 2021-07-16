@@ -1,4 +1,4 @@
-# Pacte d’ambition pour l’insertion par l’activité économique
+# Garantir l'égalité professionnelle entre les femmes et les hommes
 ## Description générale du jeu de données 
 
 **La réforme** : Avec l’index de l’égalité professionnelle entre les femmes et les hommes, il s’agit d’instaurer l’égalité de rémunération à travail égal entre les femmes et les hommes, en fixant aux entreprises et aux partenaires sociaux une obligation de résultat en la matière et de réduire concrètement les écarts de rémunération. Désormais toutes les entreprises de plus de 50 salariés doivent calculer leur note « index de l’égalité » et la publier sur leur site internet. 
