@@ -39,14 +39,14 @@ Jusqu’à 2020 le calcul du taux de formation était : nombre de personnes dét
 -	Fréquence de mise à jour : trimestrielle
 -	Couverture temporelle : les données initiales remontent à 2018 et leur mise à jour - impliquant le nettoyage de la base de données initiale - date de 2021
 -	Couverture spatiale : la France métropolitaine et les territoires d’outre-mer sont couverts
--	Granularité spatiale : les données sont disponibles au niveau national, interrégional (DISP et DIR-PJJ) ainsi que départemental (SPIP)
+-	Granularité spatiale : les données sont disponibles au niveau national, régional (DISP et DIR-PJJ) ainsi que départemental (SPIP)
 -	Nature des données : non-cumul 
 
 **Indicateur 2** : 
 -	Fréquence de mise à jour : trimestrielle
 -	Couverture temporelle : les données initiales remontent à 2016 
 -	Couverture spatiale : la France métropolitaine et les territoires d’outre-mer sont couverts
--	Granularité spatiale : les données sont disponibles au niveau national, interrégional (DISP) ainsi que local (établissement pénitentiaire)
+-	Granularité spatiale : les données sont disponibles au niveau national, régional (DISP) ainsi que local (établissement pénitentiaire)
 -	Nature des données : non-cumul 
 
 ## Description des changements majeurs
@@ -54,4 +54,4 @@ Jusqu’à 2020 le calcul du taux de formation était : nombre de personnes dét
 Mise en place progressive du réseau des référents territoriaux du TIG chargés de tenir à jour la plateforme TIG360° (35 référents déployés en 2019, 26 supplémentaires en septembre 2020 et encore 11 en septembre 2021)
 
 **Indicateur 2** : 
-Le déploiement de la plateforme IPRO 360°, dont le premier palier sera mis en production en juillet 2021 permettra à terme d’industrialiser la production des données associées à cet indicateur. 
+Le déploiement de la plateforme IPRO 360°, dont le premier palier sera mis en production en juillet 2021 permettra à terme d’industrialiser la production des données associées à cet indicateur.

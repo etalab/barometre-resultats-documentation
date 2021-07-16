@@ -1,8 +1,8 @@
 # Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022
 ## Description générale du jeu de données 
 **Action prioritaire** : L'objectif du Plan Très Haut Débit est de donner à l'ensemble des Français un accès internet performant. Il devra permettre à tous d'accéder à :
-- un bon haut débit fixe (8 Mbit/s) d'ici à 2020 ;
-- un très haut débit fixe (30 Mbit/s) d'ici à 2022.
+-	un bon haut débit fixe (8 Mbit/s) d'ici à 2020 ;
+-	un très haut débit fixe (30 Mbit/s) d'ici à 2022.
 Il vise par ailleurs à généraliser le déploiement de la fibre optique sur tout le territoire d'ici à 2025.
 
 **Indicateur** : *Taux de déploiement de la fibre*
@@ -15,7 +15,7 @@ Le taux de déploiement de la fibre dans un département évalue la proportion d
 
 ## Description des métadonnées 
 -	Fréquence de mise à jour : trimestrielle
--	Couverture temporelle : mars 2017 – décembre 2020
+-	Couverture temporelle : depuis mars 2017
 -	Couverture spatiale : France métropolitaine et DOM 
 -	Granularité spatiale : nationale, régionale, départementale
 -	Nature des données : données en pourcentage

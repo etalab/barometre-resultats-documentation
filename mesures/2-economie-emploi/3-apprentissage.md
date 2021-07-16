@@ -13,7 +13,7 @@ Les données sont recueillies à partir du tableau de bord des politiques de l�
 ## Description des métadonnées 
 Synthèse 
 -	Fréquence de mise à jour : annuel 
--	Couverture temporelle :  2017 - 2020
+-	Couverture temporelle :  depuis 2017
 -	Couverture spatiale : France métropolitaine, Guadeloupe, Guyane, Martinique, Réunion, et Mayotte.
 -	Granularité spatiale : départementale
 -	Nature des données : valeurs annuelles non-cumulées

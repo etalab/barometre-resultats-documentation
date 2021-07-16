@@ -8,6 +8,7 @@ Pour accéder à ce nouveau service :
 
 Le dispositif a été lancé le 1er octobre 2020 au bénéfice des familles qui rencontraient des situations d’impayés. Le 1er janvier 2021, la mesure a été élargie à l’ensemble des parents qui le souhaitent, sans condition, et avant même que la situation d’impayé ne survienne, pour prévenir toute rupture de situation.
 
+
 **Indicateur** : L'indicateur mesure le nombre de familles bénéficiaires d'une pension alimentaire versée par l'intermédiaire du service public des pensions alimentaires (SPPA).
 
 ## Description du mode de production du jeu de données

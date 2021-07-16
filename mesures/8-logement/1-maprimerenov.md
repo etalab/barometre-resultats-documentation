@@ -10,7 +10,7 @@ Les chiffres sont issus d’une base vivante, et certains écarts peuvent s’y 
 
 ## Description des métadonnées 
 -	Fréquence de mise à jour : mensuelle
--	Couverture temporelle : avril 2020 – mars 2021
+-	Couverture temporelle : depuis avril 2020
 -	Couverture spatiale : métropole, outre-mer (dont Guadeloupe, Guyane, Martinique, La Réunion)
 -	Granularité spatiale : départementale
 -	Nature des données : valeurs mensuelles non-cumulées

@@ -11,13 +11,13 @@ L’amélioration des délais de traitement doit permettre d’obtenir une répo
 **Indicateur** : L’indicateur affiché mesure la moyenne des délais de traitement constatés sur les dossiers de demande d'allocation adulte handicapé AAH traités sur la période considérée et sur le territoire considéré.
 
 ## Description du mode de production du jeu de données 
--	Les données sont issues jusqu’au déploiement d’un système d’information harmonisé de systèmes d’information locaux avec des paramétrages locaux. Elles ne sont pas exhaustives
--	Parallèlement au déploiement du système d’information harmonisé, des requêtes automatisées sont en cours de déploiement. Elles anticipent la mise en place en 2021 d’un entrepôt national de données de l’activité de l’ensemble des MDPH sous la maîtrise d’ouvrage de la CNSA
+-	Les données sont issues jusqu’au déploiement d’un système d’information harmonisé de systèmes d’information locaux avec des paramétrages locaux. Elles ne sont pas exhaustives.
+-	Parallèlement au déploiement du système d’information harmonisé, des requêtes automatisées sont en cours de déploiement. Elles anticipent la mise en place en 2021 d’un entrepôt national de données de l’activité de l’ensemble des MDPH sous la maîtrise d’ouvrage de la CNSA.
 -	Depuis le 15 octobre 2020, les données sont accessibles sur le site de la CNSA ([cnsa.fr](https://www.cnsa.fr/)) avec une mise à jour trimestrielle. Elles sont une des composantes d’un baromètre des MDPH.
 
 ## Description des métadonnées 
 -	Fréquence de mise à jour :  trimestrielle à compter du 3ème trimestre 2020 
--	Couverture temporelle : 2017 - 2020
+-	Couverture temporelle : depuis 2017 (séries annuelles pour 2017, 2018, 2019, actualisation trimestrielle depuis T3 2020)
 -	Couverture spatiale : France métropolitaine et départements et collectivités d’outre-mer exerçant les compétences départementales
 -	Granularité spatiale : nationale, départementale
 -	Nature des données : valeur non-cumulées 

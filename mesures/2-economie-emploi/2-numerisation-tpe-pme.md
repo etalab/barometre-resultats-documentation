@@ -2,6 +2,7 @@
 ## Description générale du jeu de données 
 Action prioritaire : 
 Accompagner et favoriser la transformation numérique des entreprises est une priorité du Gouvernement. Pour y parvenir, il continue, grâce au plan de relance, à déployer l’initiative France Num. Plusieurs dispositifs ont été mis en place comme des diagnostics numériques gratuits, une subvention de 500 € pour l’achat d’une solution permettant par exemple de vendre à distance ou de promouvoir son activité sur internet, des formations ou encore des prêts France Num (garantis par l’État et la Commission européenne) proposés par les banques pour soutenir vos projets de numérisation.
+
 **Indicateur 1** : _Nombre d’entreprises ayant bénéficié du chèque numérique de 500 €_
 L’indicateur permet de suivre le nombre d’entreprises qui ont demandé et obtenu un chèque numérique.
 
