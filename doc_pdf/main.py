@@ -12,16 +12,16 @@ md_folder = os.path.join(root_folder, 'mesures')
 doc_pdf_folder = os.path.join(root_folder, 'doc_pdf')
 
 themes_str_dict = {
-    '1-education-jeunesse' : 'Éducation - jeunesse',
-    '2-economie-emploi' : 'Économie - emploi',
+    '1-education-jeunesse' : 'Éducation - Jeunesse',
+    '2-economie-emploi' : 'Économie - Emploi',
     '3-transition-ecologique' : 'Transition écologique',
     '4-agriculture' : 'Agriculture',
     '5-securite' : 'Sécurité',
     '6-justice' : 'Justice',
-    '7-sante-famille-handicap' : 'Santé - famille - handicap',
+    '7-sante-famille-handicap' : 'Santé - Famille - Handicap',
     '8-logement' : 'Logement',
-    '9-services-publics-territoires' : 'Services publics et territoires',
-    '10-culture' : 'Culture'
+    '9-services-publics-territoires' : 'Services publics - Territoires',
+    '10-culture' : 'Culture - Sports'
 }
 
 def emojify(string):
