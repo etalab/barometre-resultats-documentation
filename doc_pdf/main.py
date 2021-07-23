@@ -21,7 +21,7 @@ themes_str_dict = {
     '7-sante-famille-handicap' : 'Santé - Famille - Handicap',
     '8-logement' : 'Logement',
     '9-services-publics-territoires' : 'Services publics - Territoires',
-    '10-culture' : 'Culture - Sports'
+    '10-culture-sports' : 'Culture - Sports'
 }
 
 def emojify(string):
