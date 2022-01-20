@@ -11,7 +11,7 @@ Les données sont exhaustives, mais en évolution permanente « à la marge » (
 
 ## Description des métadonnées
 -	Fréquence de mise à jour : une fois par an par campagne de paiement 
--	Couverture temporelle : campagnes 2017 à 2020
+-	Couverture temporelle : campagnes 2017 à 2021
 -	Couverture spatiale : France métropolitaine
 -	Granularité spatiale : données départementales, régionales et nationales
 -	Nature des données : non cumulées

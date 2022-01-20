@@ -6,8 +6,7 @@ Cette nouvelle prestation, initiée lors la stratégie nationale de mobilisation
 
 Elle est versée par les caisses d’allocations familiales (CAF) et les caisses de mutualité sociale agricole (MSA) dans la limite de 66 jours pour l’ensemble de la carrière, quelle que soit l’activité professionnelle exercée et quel que soit le nombre de personnes aidées. Son montant est de 44 euros par jour pour les personnes en couple et de 52 euros par jour pour une personne isolée.
 
-**Indicateur :** Nombre de bénéficiaires d'un congé de proche aidant indemnisé (AJPA)
-L'indicateur mesure le nombre de demandes ouvrant droit à l’allocation journalière de proche aidant (AJPA), versée par les CAF et les MSA. 
+**Indicateur :** Nombre de bénéficiaires d'un congé de proche aidant indemnisé (AJPA) L'indicateur mesure le nombre de demandes ouvrant droit à l’allocation journalière de proche aidant (AJPA), versée par les CAF et les MSA.
 
 ## Description du mode de production du jeu de données
 Les données sont collectées par la CNAF et sont ensuite consolidées par la CNAF avant d’être transmises à la DSS.
@@ -16,5 +15,5 @@ Les données sont collectées par la CNAF et sont ensuite consolidées par la CN
 - Fréquence de mise à jour : trimestrielle
 - Couverture temporelle : depuis octobre 2020
 - Couverture spatiale : France métropolitaine + DOM-TOM
-- Granularité spatiale : départementale
+- Granularité spatiale : nationale, régionale, départementale
 - Nature des données : cumul
